@@ -1,0 +1,52 @@
+[[AdvancedFormat]]
+[[Block:CE_Block1]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask1]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (No purchase)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">&#8212;</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">10 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">&#8212;</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">60 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">80 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]

@@ -1,0 +1,1207 @@
+[[AdvancedFormat]]
+[[Block:CE_Block1]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask1]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">10 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">50 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">65 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask2]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">20 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">20 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">35 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask3]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">10 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">15 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">5 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">50 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask4]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">15 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">65 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">80 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Block:CE_Block2]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask5]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">10 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">15 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">20 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">65 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask6]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">10 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">5 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">50 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask7]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">15 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">20 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">5 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">20 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask8]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">20 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">35 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">50 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Block:CE_Block3]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask9]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">15 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">50 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">65 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask10]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">10 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">20 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">20 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">35 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask11]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">15 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">35 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">50 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask12]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">10 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">5 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">65 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Block:CE_Block4]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask13]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">15 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">20 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">20 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">50 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask14]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">10 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">15 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">5 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">35 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask15]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">20 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">5 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">20 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask16]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">10 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">15 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">35 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">65 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Block:CE_Block5]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask17]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">10 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">65 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">80 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask18]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">15 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">20 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">35 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask19]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">10 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">20 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">35 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">50 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask20]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">15 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">20 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">5 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">65 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Block:CE_Block6]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask21]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">10 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">20 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">50 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask22]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">5 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">20 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">50 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">65 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask23]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">10 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">15 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">5 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">20 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
+[[Question:Matrix]]
+[[ID:CE_ChoiceTask24]]
+<br />
+<style type="text/css">table {
+border: none;
+border-collapse: collapse;
+}
+th, td {
+padding: 5px;
+}
+th {
+text-align: left;
+}
+td:first-child {
+border-left: none;
+border-top: none;
+}
+</style>
+<table>
+<tbody>
+<tr>
+<td style="width:180px; border-bottom: 1px solid #1524D9;">&nbsp;</td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 1 (Original Booking)</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 2</strong></td>
+<td bgcolor="#BEDCFC" style="width:270px; text-align: center; border-left: 4px solid #1524D9; border-top: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;"><strong>Option 3</strong></td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong> Walking distance from the original pick-up station O</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">0 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">15 mins</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 1px solid #1524D9;">20 mins</td>
+</tr>
+<tr>
+<td height="100" style="text-align: left; border-bottom: 1px solid #1524D9;"><strong>Fare discount</strong></td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">0 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">5 %</td>
+<td bgcolor="#BEDCFC" style="text-align: center; border-left: 4px solid #1524D9; border-right: 4px solid #1524D9; border-bottom: 4px solid #1524D9;">35 %</td>
+</tr>
+</tbody>
+</table>
+[[Choices]]
+Your choice:
+[[AdvancedAnswers]]
+[[Answer]]
+Option 1
+[[Answer]]
+Option 2
+[[Answer]]
+Option 3
+[[PageBreak]]
