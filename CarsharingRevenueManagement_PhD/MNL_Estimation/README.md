@@ -1,1 +1,1 @@
-This folder contains the python code for cleaning the Qualtrics survey questionnaire data and the Matlab Code for estimating the MNL parameters
+
