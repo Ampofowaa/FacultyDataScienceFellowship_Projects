@@ -1,1 +1,0 @@
-This folder contains the SAS code that generate the discrete choice experiment experiment to quantify how car sharing customers trade off walking distance and fare discounts when selecting alternative return stations.
